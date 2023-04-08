@@ -1,4 +1,5 @@
 # jdCCounter - A Carrot Counter App
-This is a simple Apple Watch app to count carrots you see.
+
+Behold, a streamlined Apple Watch application meticulously engineered to quantify the carrots encountered within your visual spectrum.
 
 
